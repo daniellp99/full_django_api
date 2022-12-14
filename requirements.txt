@@ -5,4 +5,4 @@ pyyaml
 requests
 django-cors-headers
 dj-database-url
-psycopg2
+psycopg2-binary
